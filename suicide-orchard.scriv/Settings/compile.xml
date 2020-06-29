@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>D2A2F2E1-C4EF-45C6-BF2F-63C82714F9DB</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>suicide-orchard</ProjectTitle>
+            <ProjectAbbreviatedTitle>suicide-orchard</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author FileAs="Dawes, Andy" Role="aut">Andy Dawes</Author>
+            </Authors>
+            <Surname>Dawes</Surname>
+            <Forename>Andy</Forename>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>Print</CurrentFileType>
+    <FormatSettings>
+        <Format ID="comic-script">
+            <Font>Courier</Font>
+            <SectionLayouts>
+                <Type ID="BA170F25-D3D8-4FCC-9084-0F97248ACC09">TEXT-SECTION</Type>
+                <Type ID="89A8B3FF-BF03-46E5-A61B-031D249007A3">TEXT-SECTION</Type>
+                <Type ID="FFE46078-8D05-4A74-A640-104655197CF8">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">709B869A-79EB-4ABA-BEEB-E6E7B85ADBDE</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>comic-script</Print>
+        <rtf>comic-script</rtf>
+        <epub3>DEFAULT</epub3>
+    </LastUsedFormats>
+</CompileSettings>
