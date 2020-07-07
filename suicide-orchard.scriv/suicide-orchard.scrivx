@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-06 15:55:29 +0100" ModID="6397F132-F309-4753-B6BD-40F676DF9FE4">
+<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-07 17:20:11 +0100" ModID="632EA0D6-B21F-4F55-BA24-2D698DD5D9CC">
     <Binder>
         <BinderItem UUID="9B64E500-9A8D-4994-BE7F-54CBBF107C26" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2018-11-30 20:19:58 +0000">
             <Title>Comic Script Format</Title>
@@ -1087,134 +1087,134 @@
                                 <TextSelection>1009,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B0BE8199-08F4-43F9-9721-2634FC1C327F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:54:06 +0100">
+                        <BinderItem UUID="B0BE8199-08F4-43F9-9721-2634FC1C327F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:02:44 +0100">
                             <Title>Page 8: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>898,0</TextSelection>
+                                <TextSelection>734,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="AEF8C96A-799D-4F4E-AE71-03977E3D2A54" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:55:52 +0100">
+                        <BinderItem UUID="AEF8C96A-799D-4F4E-AE71-03977E3D2A54" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:02:44 +0100">
                             <Title>Page 9: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1006,0</TextSelection>
+                                <TextSelection>1004,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="66C740BF-B521-47B4-8ACD-9F5BA72AFC56" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:55:52 +0100">
+                        <BinderItem UUID="66C740BF-B521-47B4-8ACD-9F5BA72AFC56" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:04:29 +0100">
                             <Title>Page 10: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1398,0</TextSelection>
+                                <TextSelection>1417,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3DB212C4-7C57-4855-A5E2-4CA3F3501400" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:56:18 +0100">
+                        <BinderItem UUID="3DB212C4-7C57-4855-A5E2-4CA3F3501400" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:05:47 +0100">
                             <Title>Page 11: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1003,0</TextSelection>
+                                <TextSelection>1020,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="38E738BF-DC85-451F-904C-D932629F38C1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:56:54 +0100">
+                        <BinderItem UUID="38E738BF-DC85-451F-904C-D932629F38C1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:07:49 +0100">
                             <Title>Page 12: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>983,0</TextSelection>
+                                <TextSelection>971,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="171BC5F9-9ABF-4E69-B2C0-320E68D7679C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:59:34 +0100">
+                        <BinderItem UUID="171BC5F9-9ABF-4E69-B2C0-320E68D7679C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:08:54 +0100">
                             <Title>Page 13: 1776</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>202,0</TextSelection>
+                                <TextSelection>278,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F8FE7BD9-0F78-42BF-B43C-2A404167DD5B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:58:08 +0100">
+                        <BinderItem UUID="F8FE7BD9-0F78-42BF-B43C-2A404167DD5B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:11:11 +0100">
                             <Title>Page 14: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1676,0</TextSelection>
+                                <TextSelection>1662,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C376E019-466C-48A8-92C1-290DD2316A7C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:58:36 +0100">
+                        <BinderItem UUID="C376E019-466C-48A8-92C1-290DD2316A7C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:13:17 +0100">
                             <Title>Page 15: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1493,0</TextSelection>
+                                <TextSelection>1440,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="88875EE9-CC01-484F-957E-874FA959FB59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:59:05 +0100">
+                        <BinderItem UUID="88875EE9-CC01-484F-957E-874FA959FB59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:13:22 +0100">
                             <Title>Page 16: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>284,0</TextSelection>
+                                <TextSelection>10,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4D0E7DE8-5551-40D2-8EB4-7A0560E82218" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 20:59:38 +0100">
+                        <BinderItem UUID="4D0E7DE8-5551-40D2-8EB4-7A0560E82218" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:13:34 +0100">
                             <Title>Page 17: 1776</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>175,0</TextSelection>
+                                <TextSelection>10,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DA2C95AA-4186-4A95-9AE7-0F83F5209C50" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:00:11 +0100">
+                        <BinderItem UUID="DA2C95AA-4186-4A95-9AE7-0F83F5209C50" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:15:56 +0100">
                             <Title>Page 18: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1753,0</TextSelection>
+                                <TextSelection>1778,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E37E3ED6-F0CF-48E9-B48F-780280E6BEF1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:00:41 +0100">
+                        <BinderItem UUID="E37E3ED6-F0CF-48E9-B48F-780280E6BEF1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:16:35 +0100">
                             <Title>Page 19: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>435,0</TextSelection>
+                                <TextSelection>210,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CDBA994C-EF02-4E2E-A743-122AB0ED01BA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:04:10 +0100">
+                        <BinderItem UUID="CDBA994C-EF02-4E2E-A743-122AB0ED01BA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:18:33 +0100">
                             <Title>Page 20: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>945,0</TextSelection>
+                                <TextSelection>965,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="7A230F69-C2C2-495B-95F6-F250C4FE4FFA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:02:03 +0100">
@@ -1227,14 +1227,14 @@
                                 <TextSelection>120,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5881AEBC-D5E2-4A6C-9966-6C7818CF2589" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:02:39 +0100">
+                        <BinderItem UUID="5881AEBC-D5E2-4A6C-9966-6C7818CF2589" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:20:11 +0100">
                             <Title>Page 22: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1179,0</TextSelection>
+                                <TextSelection>1087,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3036,12 +3036,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:17:37 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-07 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1" Characters="128" Date="2020-07-06 15:41:47 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-08 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1" Characters="126" Date="2020-07-07 16:59:17 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-06 00:00:00 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>128</DraftCharCount>
+    <RecentWritingHistory Date="2020-07-07 00:00:00 +0100">
+        <DraftWordCount>-2</DraftWordCount>
+        <DraftCharCount>44</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
