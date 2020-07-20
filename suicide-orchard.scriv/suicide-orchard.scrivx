@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-10 14:44:46 +0100" ModID="76A291EB-35C0-46CF-8DD0-A944F88143B0">
+<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-20 15:43:20 +0100" ModID="ACA4CF58-A0CA-4054-A7BA-0312F6B69508">
     <Binder>
         <BinderItem UUID="9B64E500-9A8D-4994-BE7F-54CBBF107C26" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2018-11-30 20:19:58 +0000">
             <Title>Comic Script Format</Title>
@@ -57,47 +57,47 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E33B3CE4-5A60-459E-9483-62FED9C34F59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:39:44 +0100">
+                        <BinderItem UUID="E33B3CE4-5A60-459E-9483-62FED9C34F59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:09 +0100">
                             <Title>Page 1: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>975,0</TextSelection>
+                                <TextSelection>982,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D1F3BA27-1345-4B4D-A20A-9FDCF725F9FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:17:13 +0100">
+                        <BinderItem UUID="D1F3BA27-1345-4B4D-A20A-9FDCF725F9FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 15:18:08 +0100">
                             <Title>Page 2: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>883,0</TextSelection>
+                                <TextSelection>288,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="01AA9297-6D35-46EE-9E7E-7CB595520A0D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:41:58 +0100">
+                        <BinderItem UUID="01AA9297-6D35-46EE-9E7E-7CB595520A0D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 15:29:23 +0100">
                             <Title>Page 3: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>790,0</TextSelection>
+                                <TextSelection>620,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1156E338-2676-4586-BCC7-9ED847671E46" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:42:26 +0100">
+                        <BinderItem UUID="1156E338-2676-4586-BCC7-9ED847671E46" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 15:39:33 +0100">
                             <Title>Page 4: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>859,0</TextSelection>
+                                <TextSelection>910,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9631B8ED-D178-4B19-A7F2-256AF0D933F6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:43:16 +0100">
+                        <BinderItem UUID="9631B8ED-D178-4B19-A7F2-256AF0D933F6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 15:43:20 +0100">
                             <Title>Page 5: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -117,7 +117,7 @@
                                 <TextSelection>1113,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DD581132-0176-45CF-96C3-D9FD4DB018A1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:44:06 +0100">
+                        <BinderItem UUID="DD581132-0176-45CF-96C3-D9FD4DB018A1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:00 +0100">
                             <Title>Page 7: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -137,7 +137,7 @@
                                 <TextSelection>1477,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E1C7ABAF-D09B-47D0-98DA-F0336FACFEB9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:46:34 +0100">
+                        <BinderItem UUID="E1C7ABAF-D09B-47D0-98DA-F0336FACFEB9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:08 +0100">
                             <Title>Page 9: 1988</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -157,7 +157,7 @@
                                 <TextSelection>623,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FE9E2AAB-1814-4C2B-862F-0F4158268F4C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:48:48 +0100">
+                        <BinderItem UUID="FE9E2AAB-1814-4C2B-862F-0F4158268F4C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:07 +0100">
                             <Title>Page 11: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -177,7 +177,7 @@
                                 <TextSelection>936,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="40ACF76F-CDA8-4DC0-BAFE-BA346FBDA1B7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 15:50:37 +0100">
+                        <BinderItem UUID="40ACF76F-CDA8-4DC0-BAFE-BA346FBDA1B7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:08 +0100">
                             <Title>Page 13: 1992</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -197,7 +197,7 @@
                                 <TextSelection>1140,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D0141F32-93AC-411D-A869-C5FF7D8E257B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 16:01:53 +0100">
+                        <BinderItem UUID="D0141F32-93AC-411D-A869-C5FF7D8E257B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:04 +0100">
                             <Title>Page 15: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -217,7 +217,7 @@
                                 <TextSelection>545,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="440338AC-1F9E-442C-A3D4-6CD2C61BF9C6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 16:02:52 +0100">
+                        <BinderItem UUID="440338AC-1F9E-442C-A3D4-6CD2C61BF9C6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:02 +0100">
                             <Title>Page 17: 1995</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -237,7 +237,7 @@
                                 <TextSelection>289,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8CE6953F-3C7E-49EA-8E5B-201BF65CF372" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 16:05:05 +0100">
+                        <BinderItem UUID="8CE6953F-3C7E-49EA-8E5B-201BF65CF372" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:00 +0100">
                             <Title>Page 19: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -257,7 +257,7 @@
                                 <TextSelection>1112,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2B1D742C-26C9-46C4-916E-B3674BC6064C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-30 16:06:41 +0100">
+                        <BinderItem UUID="2B1D742C-26C9-46C4-916E-B3674BC6064C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:01 +0100">
                             <Title>Page 21: 1997</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -301,7 +301,7 @@
                                 <TextSelection>102,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F20FEA74-69F3-4E8D-A8A2-2F386B9FEA1A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:03:43 +0100">
+                        <BinderItem UUID="F20FEA74-69F3-4E8D-A8A2-2F386B9FEA1A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:03 +0100">
                             <Title>Page 1: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -321,7 +321,7 @@
                                 <TextSelection>1272,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="654762C8-76A4-404E-A282-456A2FDD25DE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:05:34 +0100">
+                        <BinderItem UUID="654762C8-76A4-404E-A282-456A2FDD25DE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:12 +0100">
                             <Title>Page 3: 1999</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -341,7 +341,7 @@
                                 <TextSelection>1012,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="95EF7331-5385-4F9F-9D54-13BAE14B74C7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:06:57 +0100">
+                        <BinderItem UUID="95EF7331-5385-4F9F-9D54-13BAE14B74C7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:12 +0100">
                             <Title>Page 5: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -371,7 +371,7 @@
                                 <TextSelection>724,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7029E450-A54F-4A32-8B0F-DEF81037F0E5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:08:53 +0100">
+                        <BinderItem UUID="7029E450-A54F-4A32-8B0F-DEF81037F0E5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:08 +0100">
                             <Title>Page 8: 2000</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -381,7 +381,7 @@
                                 <TextSelection>889,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0CEA308D-AB28-4362-A8FE-706B18F7E8AE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:10:35 +0100">
+                        <BinderItem UUID="0CEA308D-AB28-4362-A8FE-706B18F7E8AE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:11 +0100">
                             <Title>Page 9: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -391,7 +391,7 @@
                                 <TextSelection>1455,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2E8C529C-FF47-4385-BDD2-DFB0D6222BDF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:11:31 +0100">
+                        <BinderItem UUID="2E8C529C-FF47-4385-BDD2-DFB0D6222BDF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:06 +0100">
                             <Title>Page 10: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -401,7 +401,7 @@
                                 <TextSelection>953,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EF47350E-218C-4E8C-9F46-9AE4EEE01BA5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:14:20 +0100">
+                        <BinderItem UUID="EF47350E-218C-4E8C-9F46-9AE4EEE01BA5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:12 +0100">
                             <Title>Page 11: 2001</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -441,7 +441,7 @@
                                 <TextSelection>401,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="01794CE0-758C-471B-ADF1-E805BBCC1AA5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:24:08 +0100">
+                        <BinderItem UUID="01794CE0-758C-471B-ADF1-E805BBCC1AA5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:13 +0100">
                             <Title>Page 15: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -461,7 +461,7 @@
                                 <TextSelection>532,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5E807B16-2E5A-4FF0-9D35-B92FDBCC5416" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:25:24 +0100">
+                        <BinderItem UUID="5E807B16-2E5A-4FF0-9D35-B92FDBCC5416" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:07 +0100">
                             <Title>Page 17: 2002</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -501,7 +501,7 @@
                                 <TextSelection>814,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5F37519D-DE45-43BC-857A-043B4432D40F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:33:42 +0100">
+                        <BinderItem UUID="5F37519D-DE45-43BC-857A-043B4432D40F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:13 +0100">
                             <Title>Page 21: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -545,7 +545,7 @@
                                 <TextSelection>99,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="30811A18-F969-400B-8B30-56CAFF6B7634" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-02 21:19:47 +0100">
+                        <BinderItem UUID="30811A18-F969-400B-8B30-56CAFF6B7634" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:04 +0100">
                             <Title>Page 1: 2003</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -585,7 +585,7 @@
                                 <TextSelection>673,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F3287BD9-A2F3-4599-BEAE-3C9AECB7A1F8" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-02 21:32:42 +0100">
+                        <BinderItem UUID="F3287BD9-A2F3-4599-BEAE-3C9AECB7A1F8" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:07 +0100">
                             <Title>Page 5: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -605,7 +605,7 @@
                                 <TextSelection>830,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DDB2417F-1FF8-41D4-BA27-5A00CB9FCA21" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-03 18:53:20 +0100">
+                        <BinderItem UUID="DDB2417F-1FF8-41D4-BA27-5A00CB9FCA21" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:05 +0100">
                             <Title>Page 7: 2005</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -645,7 +645,7 @@
                                 <TextSelection>1246,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A5FD876B-B077-4871-877E-3CC526E2C47A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-04 15:55:03 +0100">
+                        <BinderItem UUID="A5FD876B-B077-4871-877E-3CC526E2C47A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:09 +0100">
                             <Title>Page 11: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -665,7 +665,7 @@
                                 <TextSelection>922,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="07DED111-AEA7-473D-BAA0-6FE2087ED20B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-04 15:59:54 +0100">
+                        <BinderItem UUID="07DED111-AEA7-473D-BAA0-6FE2087ED20B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:11 +0100">
                             <Title>Page 13: 2005</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -705,7 +705,7 @@
                                 <TextSelection>303,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EAB931F7-7BC8-430C-9D8B-C0D05DAC390A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-04 16:08:03 +0100">
+                        <BinderItem UUID="EAB931F7-7BC8-430C-9D8B-C0D05DAC390A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:06 +0100">
                             <Title>Page 17: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -725,7 +725,7 @@
                                 <TextSelection>1111,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A7A86932-69A3-4FDA-B8C3-10C4E867F492" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-04 16:15:07 +0100">
+                        <BinderItem UUID="A7A86932-69A3-4FDA-B8C3-10C4E867F492" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:10 +0100">
                             <Title>Page 19: 2006</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -789,7 +789,7 @@
                                 <TextSelection>96,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C1C60918-39EC-4E4F-9854-EED092134B63" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 14:23:48 +0100">
+                        <BinderItem UUID="C1C60918-39EC-4E4F-9854-EED092134B63" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:10 +0100">
                             <Title>Page 1: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -809,7 +809,7 @@
                                 <TextSelection>823,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4491D164-77BF-4F5F-ADEA-BD0E81A57782" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 14:47:26 +0100">
+                        <BinderItem UUID="4491D164-77BF-4F5F-ADEA-BD0E81A57782" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:11 +0100">
                             <Title>Page 3: 2006</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -849,7 +849,7 @@
                                 <TextSelection>1339,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8F584281-2B33-49CB-8768-A3B9DF6455FB" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 14:52:58 +0100">
+                        <BinderItem UUID="8F584281-2B33-49CB-8768-A3B9DF6455FB" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:06 +0100">
                             <Title>Page 7: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -869,7 +869,7 @@
                                 <TextSelection>1498,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DD34A815-78B1-4CC3-A601-990F181EF667" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 14:55:51 +0100">
+                        <BinderItem UUID="DD34A815-78B1-4CC3-A601-990F181EF667" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:01 +0100">
                             <Title>Page 9: 2006</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -909,7 +909,7 @@
                                 <TextSelection>1144,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E0CD920B-A1D9-4C57-BE4D-F9F176EF5B06" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 15:02:00 +0100">
+                        <BinderItem UUID="E0CD920B-A1D9-4C57-BE4D-F9F176EF5B06" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:06 +0100">
                             <Title>Page 13: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -929,7 +929,7 @@
                                 <TextSelection>1911,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C52069CE-8CF1-42D2-947B-FA3AFDD5C2C0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 15:04:48 +0100">
+                        <BinderItem UUID="C52069CE-8CF1-42D2-947B-FA3AFDD5C2C0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:00 +0100">
                             <Title>Page 15: 2006</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -969,7 +969,7 @@
                                 <TextSelection>1379,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D17EBF73-9B2B-4118-B114-9C6F9E7C7D79" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 15:10:12 +0100">
+                        <BinderItem UUID="D17EBF73-9B2B-4118-B114-9C6F9E7C7D79" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:10 +0100">
                             <Title>Page 19: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -989,7 +989,7 @@
                                 <TextSelection>1294,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="56B3B41A-AFF0-41DE-A419-D1112C3509E1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-05 15:13:10 +0100">
+                        <BinderItem UUID="56B3B41A-AFF0-41DE-A419-D1112C3509E1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:13 +0100">
                             <Title>Page 21: 2007</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1053,7 +1053,7 @@
                                 <TextSelection>1405,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1BC63D8C-40BD-4F98-BC22-4201DA30ADFB" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-06 15:48:44 +0100">
+                        <BinderItem UUID="1BC63D8C-40BD-4F98-BC22-4201DA30ADFB" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:11 +0100">
                             <Title>Page 3: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1113,7 +1113,7 @@
                                 <TextSelection>734,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="AEF8C96A-799D-4F4E-AE71-03977E3D2A54" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:02:44 +0100">
+                        <BinderItem UUID="AEF8C96A-799D-4F4E-AE71-03977E3D2A54" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:03 +0100">
                             <Title>Page 9: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1133,7 +1133,7 @@
                                 <TextSelection>1417,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3DB212C4-7C57-4855-A5E2-4CA3F3501400" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:05:47 +0100">
+                        <BinderItem UUID="3DB212C4-7C57-4855-A5E2-4CA3F3501400" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:14 +0100">
                             <Title>Page 11: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1163,7 +1163,7 @@
                                 <TextSelection>278,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F8FE7BD9-0F78-42BF-B43C-2A404167DD5B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:11:11 +0100">
+                        <BinderItem UUID="F8FE7BD9-0F78-42BF-B43C-2A404167DD5B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:52:59 +0100">
                             <Title>Page 14: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1183,7 +1183,7 @@
                                 <TextSelection>1440,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="88875EE9-CC01-484F-957E-874FA959FB59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:13:22 +0100">
+                        <BinderItem UUID="88875EE9-CC01-484F-957E-874FA959FB59" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:19 +0100">
                             <Title>Page 16: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1203,7 +1203,7 @@
                                 <TextSelection>10,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DA2C95AA-4186-4A95-9AE7-0F83F5209C50" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:15:56 +0100">
+                        <BinderItem UUID="DA2C95AA-4186-4A95-9AE7-0F83F5209C50" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:18 +0100">
                             <Title>Page 18: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1223,7 +1223,7 @@
                                 <TextSelection>210,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CDBA994C-EF02-4E2E-A743-122AB0ED01BA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:18:33 +0100">
+                        <BinderItem UUID="CDBA994C-EF02-4E2E-A743-122AB0ED01BA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:18 +0100">
                             <Title>Page 20: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1243,7 +1243,7 @@
                                 <TextSelection>120,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5881AEBC-D5E2-4A6C-9966-6C7818CF2589" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-07 17:20:11 +0100">
+                        <BinderItem UUID="5881AEBC-D5E2-4A6C-9966-6C7818CF2589" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:19 +0100">
                             <Title>Page 22: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1287,7 +1287,7 @@
                                 <TextSelection>22,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5B869C9A-2C86-40F2-B713-856134DA1C45" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-08 17:42:03 +0100">
+                        <BinderItem UUID="5B869C9A-2C86-40F2-B713-856134DA1C45" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:19 +0100">
                             <Title>Page 2: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1307,7 +1307,7 @@
                                 <TextSelection>973,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="82A3C15D-A2EB-4ED8-A9D0-E9264ACC98B9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-08 17:46:04 +0100">
+                        <BinderItem UUID="82A3C15D-A2EB-4ED8-A9D0-E9264ACC98B9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:19 +0100">
                             <Title>Page 4: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1327,7 +1327,7 @@
                                 <TextSelection>1506,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="94EB872E-D5AB-4DC8-995C-1CBB130F0F36" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-08 17:49:25 +0100">
+                        <BinderItem UUID="94EB872E-D5AB-4DC8-995C-1CBB130F0F36" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:18 +0100">
                             <Title>Page 6: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1337,7 +1337,7 @@
                                 <TextSelection>860,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0B817A6C-C2F5-4A46-8815-BB6821563763" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-08 17:50:45 +0100">
+                        <BinderItem UUID="0B817A6C-C2F5-4A46-8815-BB6821563763" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:18 +0100">
                             <Title>Page 7: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1357,7 +1357,7 @@
                                 <TextSelection>1027,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9A248F9E-B467-4DA0-8AC8-88ED35799AA9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-08 17:53:52 +0100">
+                        <BinderItem UUID="9A248F9E-B467-4DA0-8AC8-88ED35799AA9" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:24 +0100">
                             <Title>Page 9: 2008</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1377,7 +1377,7 @@
                                 <TextSelection>10,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FE3124CC-192A-467E-A530-BDBC633E6CB5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:19:42 +0100">
+                        <BinderItem UUID="FE3124CC-192A-467E-A530-BDBC633E6CB5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:24 +0100">
                             <Title>Page 11: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1387,7 +1387,7 @@
                                 <TextSelection>1713,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CFB5F5C2-26ED-4E7D-9824-D3360E7E13EC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:22:48 +0100">
+                        <BinderItem UUID="CFB5F5C2-26ED-4E7D-9824-D3360E7E13EC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:23 +0100">
                             <Title>Page 12: 1988</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1407,7 +1407,7 @@
                                 <TextSelection>10,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F90C2A32-5118-49CC-A03C-BBCA3847FB69" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:24:42 +0100">
+                        <BinderItem UUID="F90C2A32-5118-49CC-A03C-BBCA3847FB69" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:23 +0100">
                             <Title>Page 14: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1427,7 +1427,7 @@
                                 <TextSelection>987,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6A839A2B-E814-46B3-B5EA-910881968849" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:28:13 +0100">
+                        <BinderItem UUID="6A839A2B-E814-46B3-B5EA-910881968849" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:23 +0100">
                             <Title>Page 16: 2010</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1467,7 +1467,7 @@
                                 <TextSelection>581,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B3385331-AE92-4A60-B371-6F7BC4A86887" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:15:54 +0100">
+                        <BinderItem UUID="B3385331-AE92-4A60-B371-6F7BC4A86887" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:24 +0100">
                             <Title>Page 20: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1487,7 +1487,7 @@
                                 <TextSelection>107,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="44335A45-771D-426C-BD5A-73AE4C140084" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-09 18:31:55 +0100">
+                        <BinderItem UUID="44335A45-771D-426C-BD5A-73AE4C140084" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:24 +0100">
                             <Title>Page 22: 2010</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1551,7 +1551,7 @@
                                 <TextSelection>102,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8B9E045F-80AD-404F-86AD-91228AA1C5FA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:20:18 +0100">
+                        <BinderItem UUID="8B9E045F-80AD-404F-86AD-91228AA1C5FA" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:29 +0100">
                             <Title>Page 4: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1571,7 +1571,7 @@
                                 <TextSelection>119,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="155F11CD-18CA-47DB-8D49-74BB5DC4A7BE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:21:05 +0100">
+                        <BinderItem UUID="155F11CD-18CA-47DB-8D49-74BB5DC4A7BE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:29 +0100">
                             <Title>Page 6: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1611,7 +1611,7 @@
                                 <TextSelection>60,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="17C4A43D-F671-48BF-8E57-00A9522B8D25" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:22:25 +0100">
+                        <BinderItem UUID="17C4A43D-F671-48BF-8E57-00A9522B8D25" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:29 +0100">
                             <Title>Page 10: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1651,7 +1651,7 @@
                                 <TextSelection>74,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BF19C76B-F079-4AA9-9117-3DC7CF19F875" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:24:32 +0100">
+                        <BinderItem UUID="BF19C76B-F079-4AA9-9117-3DC7CF19F875" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:29 +0100">
                             <Title>Page 14: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1691,7 +1691,7 @@
                                 <TextSelection>29,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C31615D2-D934-404B-9B5A-706FFD6D0C5E" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:26:22 +0100">
+                        <BinderItem UUID="C31615D2-D934-404B-9B5A-706FFD6D0C5E" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:33 +0100">
                             <Title>Page 18: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1731,7 +1731,7 @@
                                 <TextSelection>112,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FF5CAC33-778F-4EAE-8A82-2EC7D66A2C02" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:28:02 +0100">
+                        <BinderItem UUID="FF5CAC33-778F-4EAE-8A82-2EC7D66A2C02" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:33 +0100">
                             <Title>Page 22: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1795,7 +1795,7 @@
                                 <TextSelection>97,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E865BE61-28EF-4D40-80E7-F194471BA4AF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:29:41 +0100">
+                        <BinderItem UUID="E865BE61-28EF-4D40-80E7-F194471BA4AF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:34 +0100">
                             <Title>Page 4: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1835,7 +1835,7 @@
                                 <TextSelection>196,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ABEDDAE5-5044-48D6-B5D2-CB47BE6D5D46" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:31:11 +0100">
+                        <BinderItem UUID="ABEDDAE5-5044-48D6-B5D2-CB47BE6D5D46" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:33 +0100">
                             <Title>Page 8: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1875,7 +1875,7 @@
                                 <TextSelection>88,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="39DC55EF-78CC-4DB3-AB76-9CB958B0BC3F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:32:33 +0100">
+                        <BinderItem UUID="39DC55EF-78CC-4DB3-AB76-9CB958B0BC3F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:33 +0100">
                             <Title>Page 12: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1915,7 +1915,7 @@
                                 <TextSelection>284,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B4BDD381-E46E-479F-B9CC-DCB50B34C4CD" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:34:00 +0100">
+                        <BinderItem UUID="B4BDD381-E46E-479F-B9CC-DCB50B34C4CD" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:33 +0100">
                             <Title>Page 16: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1955,7 +1955,7 @@
                                 <TextSelection>113,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F0A3659C-D8D9-4D52-990D-8172DD324B12" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:35:30 +0100">
+                        <BinderItem UUID="F0A3659C-D8D9-4D52-990D-8172DD324B12" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:37 +0100">
                             <Title>Page 20: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2019,7 +2019,7 @@
                                 <TextSelection>137,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="14A272F2-C20A-4047-BE28-7B3B1DED9D35" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:40:19 +0100">
+                        <BinderItem UUID="14A272F2-C20A-4047-BE28-7B3B1DED9D35" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:37 +0100">
                             <Title>Page 2: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2039,7 +2039,7 @@
                                 <TextSelection>191,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7B2C96ED-AE60-44F0-AC45-5425F6FFF8D7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:42:29 +0100">
+                        <BinderItem UUID="7B2C96ED-AE60-44F0-AC45-5425F6FFF8D7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:37 +0100">
                             <Title>Page 4: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2059,7 +2059,7 @@
                                 <TextSelection>169,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F34A6798-6224-4E36-99AB-C278EDF2E3A0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:43:05 +0100">
+                        <BinderItem UUID="F34A6798-6224-4E36-99AB-C278EDF2E3A0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:38 +0100">
                             <Title>Page 6: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2079,7 +2079,7 @@
                                 <TextSelection>66,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1698C29C-99B2-40DC-81A6-347F4ADF9A92" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:43:52 +0100">
+                        <BinderItem UUID="1698C29C-99B2-40DC-81A6-347F4ADF9A92" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:38 +0100">
                             <Title>Page 8: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2099,7 +2099,7 @@
                                 <TextSelection>46,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5A265883-DE5A-437D-9CD9-F4F203488E7D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:44:28 +0100">
+                        <BinderItem UUID="5A265883-DE5A-437D-9CD9-F4F203488E7D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:39 +0100">
                             <Title>Page 10: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2119,7 +2119,7 @@
                                 <TextSelection>107,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7DB36AF6-72CF-44A6-8503-4974B0CBED87" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:44:59 +0100">
+                        <BinderItem UUID="7DB36AF6-72CF-44A6-8503-4974B0CBED87" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:38 +0100">
                             <Title>Page 12: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2139,7 +2139,7 @@
                                 <TextSelection>66,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FDA630AC-DD48-4CA9-A239-312197B4F5FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:45:32 +0100">
+                        <BinderItem UUID="FDA630AC-DD48-4CA9-A239-312197B4F5FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:38 +0100">
                             <Title>Page 14: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2159,7 +2159,7 @@
                                 <TextSelection>22,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D6415593-12DB-404E-930D-195AA568ECE5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:46:03 +0100">
+                        <BinderItem UUID="D6415593-12DB-404E-930D-195AA568ECE5" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:37 +0100">
                             <Title>Page 16: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2179,7 +2179,7 @@
                                 <TextSelection>216,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D490536E-AD05-4B45-A948-D5339A4417D0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:46:42 +0100">
+                        <BinderItem UUID="D490536E-AD05-4B45-A948-D5339A4417D0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:37 +0100">
                             <Title>Page 18: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2239,7 +2239,7 @@
                                 <TextSelection>620,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D504145F-F374-40AC-8DF4-61B31BB19CDF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:49:28 +0100">
+                        <BinderItem UUID="D504145F-F374-40AC-8DF4-61B31BB19CDF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:45 +0100">
                             <Title>Page 24: 1936 &amp; 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2296,7 +2296,7 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="5856725A-44B0-49A7-B01A-5166D6C438AF" Type="Text" Created="2020-06-07 21:59:09 +0100" Modified="2020-06-14 21:33:47 +0100">
+                <BinderItem UUID="5856725A-44B0-49A7-B01A-5166D6C438AF" Type="Text" Created="2020-06-07 21:59:09 +0100" Modified="2020-07-20 14:53:45 +0100">
                     <Title>The_Suicide_Orchard</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2385,7 +2385,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B4928F70-7684-46AA-BFD4-0128713E94F8" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:04:01 +0100">
+                <BinderItem UUID="B4928F70-7684-46AA-BFD4-0128713E94F8" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:49 +0100">
                     <Title>Page 2: 2008</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2405,7 +2405,7 @@
                         <TextSelection>1193,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AFE8622C-245E-41FC-AF9E-3818C0679FA6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:05:13 +0100">
+                <BinderItem UUID="AFE8622C-245E-41FC-AF9E-3818C0679FA6" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:51 +0100">
                     <Title>Page 4: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2425,7 +2425,7 @@
                         <TextSelection>1594,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F6EB1863-09AC-47B9-93BC-9BBBE416345B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:06:13 +0100">
+                <BinderItem UUID="F6EB1863-09AC-47B9-93BC-9BBBE416345B" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:49 +0100">
                     <Title>Page 6: 2008</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2435,7 +2435,7 @@
                         <TextSelection>846,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="20E6E60D-C314-4026-BC89-719BC2B1AAA0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:07:21 +0100">
+                <BinderItem UUID="20E6E60D-C314-4026-BC89-719BC2B1AAA0" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:50 +0100">
                     <Title>Page 7: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2455,7 +2455,7 @@
                         <TextSelection>1010,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0D30F837-5EC8-4E15-9453-B690271357D7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:07:54 +0100">
+                <BinderItem UUID="0D30F837-5EC8-4E15-9453-B690271357D7" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:50 +0100">
                     <Title>Page 9: 2008</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2475,7 +2475,7 @@
                         <TextSelection>121,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="842B048A-2023-4023-B2DF-CF14F24A0B8F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:11:11 +0100">
+                <BinderItem UUID="842B048A-2023-4023-B2DF-CF14F24A0B8F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:52 +0100">
                     <Title>Page 11: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2485,7 +2485,7 @@
                         <TextSelection>1689,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5F56D346-9087-44D9-90A8-1C0FD9DEE971" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:11:11 +0100">
+                <BinderItem UUID="5F56D346-9087-44D9-90A8-1C0FD9DEE971" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:51 +0100">
                     <Title>Page 12: 1936</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2505,7 +2505,7 @@
                         <TextSelection>121,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="90A340E8-6401-49DC-965F-5586B26F2916" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:11:40 +0100">
+                <BinderItem UUID="90A340E8-6401-49DC-965F-5586B26F2916" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:49 +0100">
                     <Title>Page 14: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2525,7 +2525,7 @@
                         <TextSelection>969,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9E916321-CD88-44CB-BB75-7DA235E181FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:13:22 +0100">
+                <BinderItem UUID="9E916321-CD88-44CB-BB75-7DA235E181FC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:57 +0100">
                     <Title>Page 16: 2010</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2565,7 +2565,7 @@
                         <TextSelection>570,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C13BD16F-084A-41C1-A3B4-2CA98CCA346D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:15:54 +0100">
+                <BinderItem UUID="C13BD16F-084A-41C1-A3B4-2CA98CCA346D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:56 +0100">
                     <Title>Page 20: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2585,7 +2585,7 @@
                         <TextSelection>107,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B373BD85-713F-4860-BA16-69E6A5D859B4" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:16:43 +0100">
+                <BinderItem UUID="B373BD85-713F-4860-BA16-69E6A5D859B4" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:57 +0100">
                     <Title>Page 22: 2010</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2615,7 +2615,7 @@
                         <TextSelection>97,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4A19CCFF-00AA-4583-B717-870607422FD1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:29:41 +0100">
+                <BinderItem UUID="4A19CCFF-00AA-4583-B717-870607422FD1" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:57 +0100">
                     <Title>Page 4: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2655,7 +2655,7 @@
                         <TextSelection>196,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D7E8F298-B7A8-4F84-A2A5-8BBA9E1B4A10" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:31:11 +0100">
+                <BinderItem UUID="D7E8F298-B7A8-4F84-A2A5-8BBA9E1B4A10" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:58 +0100">
                     <Title>Page 8: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2695,7 +2695,7 @@
                         <TextSelection>88,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3465CBB6-43AA-4E68-B22F-D54A8B9E88BD" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:32:33 +0100">
+                <BinderItem UUID="3465CBB6-43AA-4E68-B22F-D54A8B9E88BD" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:56 +0100">
                     <Title>Page 12: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2735,7 +2735,7 @@
                         <TextSelection>284,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B2900071-4039-4EC0-96AB-FE3322D544AC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:34:00 +0100">
+                <BinderItem UUID="B2900071-4039-4EC0-96AB-FE3322D544AC" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:54:03 +0100">
                     <Title>Page 16: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2775,7 +2775,7 @@
                         <TextSelection>113,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="946265BC-D285-45F2-8D5A-59A644518C28" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-06-14 21:35:30 +0100">
+                <BinderItem UUID="946265BC-D285-45F2-8D5A-59A644518C28" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:54:03 +0100">
                     <Title>Page 20: 2013</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3060,15 +3060,19 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:17:37 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-11 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-07-10 14:44:22 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-21 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="33" Characters="600" Date="2020-07-20 14:39:27 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-10 00:00:00 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2020-07-20 00:00:00 +0100">
+        <DraftWordCount>20</DraftWordCount>
+        <DraftCharCount>600</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>546</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>076CE6D4-30DA-40D2-965B-B285BA17DE4E</TemplateFolderUUID>
+    <AutoCompleteList>
+        <Completion Scope="2">Lapin</Completion>
+        <Completion Scope="2">Isabel</Completion>
+    </AutoCompleteList>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
