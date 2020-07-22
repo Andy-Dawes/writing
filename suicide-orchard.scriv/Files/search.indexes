@@ -134,11 +134,10 @@ I'm bored. What shall we do now?
 
 PANEL 1
 
-INTERIOR: 2013. DAY. CHAIN COFFEE SHOP. PHILIP AND ISABEL SIT AT A TABLE
+INTERIOR: 2013. DAY. CHAIN COFFEE SHOP. LAPIN  AND ISABEL SIT AT A TABLE
+
 LAPIN
 Black, no sugar. Is that OK?
-ISABEL
-Correcto.
 
 PANEL 2
 
@@ -149,19 +148,24 @@ PANEL 3
 
 ISABEL
 Where does it come from?
+
 LAPIN
-Yes. Predictable, I suppose.
+Predictable, I suppose.
+
 ISABEL
-It is my Grandmothers. She posted it to me last week, with a note asking me to give it to you.
+It was my Grandmothers. She posted it to me last week, with a note asking me to give it to you.
 
 PANEL 4
 
 LAPIN
 Me? Specifically me? She had my address?
+
 ISABEL
 S¡.
+
 LAPIN
 How does your Grandmother know me?
+
 ISABEL
 I don't know. Until last week I knew nothing of the diary.
 
@@ -169,8 +173,10 @@ PANEL 5
 
 ISABEL
 I will ask her when I go home next week. We holiday.
+
 LAPIN
 Can't you call her?
+
 ISABEL
 She has no phone. She is a woman of... tradition.
 
@@ -178,8 +184,10 @@ PANEL 6
 
 LAPIN
 A neighbour?
+
 ISABEL
 There is no phone in the village. It is -
+
 LAPIN
 - traditional?.
 
@@ -1087,6 +1095,7 @@ Massacre scenes. More mythic, demonic imagery present.
             <Text>PAGE &lt;$N&gt;
 
 PANEL 1
+
 EXTERIOR: 1936. DAY. DEEP IN THE FOREST. EDWARD and RICHARD are sat in the back of an open truck with five other republican prisoners. Four fascist guards sit in each corner of the truck.
 
 PANEL 2
@@ -1098,6 +1107,8 @@ PANEL 3
 We see the truck from high above, traveling along an unmade road through the forest. 
 
 PANEL 4
+
+INTERIOR of truck. RICHARD is looking at EDWARD with a rasied eyebrow.
 
 RICHARD
 Well, at least we're not lost...
@@ -1334,14 +1345,7 @@ His soft murmur draws a gentle smile from you. 
 PANEL 3
 
 CAP
-A mask of love. Shelter.
-
-PANEL 4
-
-EXTERIOR: 1995. DAY. SUNLIT. LAPINS SUBURBAN REAR GARDEN.
-
-CAP
-In the morning you peg washing on the line. I watch you from my depths. The hearts loam.
+Love. Shelter. Comfort.
 </Text>
         </Document>
         <Document ID="4A19CCFF-00AA-4583-B717-870607422FD1">
@@ -1442,7 +1446,7 @@ I'm so proud... I was enjoying that book.
 
 PANEL 3
 
-EXTERIOR: 1936. DAY. DEEP FOREST
+EXTERIOR: 1936. DAY. DEEP FOREST. EDWARD and RICHARD are standing looking at a dead body.
 
 CAP
 We saw our first dead fascist today. He was propped against a tree trunk and looked to have been there for a few days. We stared.
@@ -1461,7 +1465,7 @@ Oh Holy God!
 PANEL 5
 
 CAP
-As for me, I felt only two things. That I was glad to be alive. And, God forgive me, amusement. Inside I was laughing.
+As for me, I was glad to be alive. And, God forgive me, amused. Inside I was laughing.
 
 CAP
 Of horror, I felt nothing. I do not know why.
@@ -1999,7 +2003,7 @@ PANEL 1
 INTERIOR: 1988. NIGHT. STUDENT PARTY.
 
 LAPIN
-Your friend is an arse.
+Your friend is an idiot.
 
 KATE
 I know. He pretends not to fancy me. But he has evil intentions... Do you?
@@ -2007,7 +2011,7 @@ I know. He pretends not to fancy me. But he has evil intentions... Do you?
 PANEL 2
 
 LAPIN
-I may have a little something in mind.
+Er... Well, I suppose I do really.
 
 PANEL 3
 
@@ -2626,10 +2630,10 @@ CAP
 When the morning mist in the valley clears, the air in the valley below is so soaked in dew that it resembles the sea. The sun makes it luminous green and yellow.. This is a beautiful place. 
 
 RICHARD
-I can't see anyone.
+I can't see them.
 
 EDWARD
-We can never see anyone. They're too far away to hit us.
+It doesn’t matter. They're too far away to hit us.
 
 PANEL 2
 
@@ -3003,7 +3007,7 @@ EDWARD
 I have worked out that I have one hundred lice for each week we've been in the army.
 
 RICHARD
-And they are all on holiday in my armpit this very moment... Edward, we're going to be here all day.
+And they are all on holiday in my armpit this very moment.
 
 PANEL 3
 
@@ -3025,7 +3029,7 @@ That would be the third rumour this week. Asturias is a new twist though. ¡brav
 PANEL 5
 
 EDWARD
-My lice are back from holiday. They seem well rested. They must have enjoyed your company.
+My lice are back from holiday. They seem well rested. They must have enjoyed your armpit.
 
 RICHARD
 Indeed. Some liked it so much they decided to stay for good.
@@ -3616,7 +3620,7 @@ PANEL 1
 EXTERIOR: 1936. DAY. DEEP FOREST
 
 EDWARD
-Well, we're well and truly lost.
+Well, we are well and truly lost.
 
 RICHARD
 Apparently so.
@@ -3958,12 +3962,12 @@ I want to swim through her love the way my children do, effortless and ripe.
 PANEL 5
 
 CAP
-And so I call her, many times a day, just to hear her voice. Each call is a weight upon her. My desire, a paranoia, forces the breath from her.
+And so I call her, many times a day, just to hear her voice. Each call is a weight upon her, forcing the breath from her.
 
 PANEL 6
 
 CAP
-My surfeit of love. A gluttony. A sin.
+My love. A gluttony. A sin.
 </Text>
         </Document>
         <Document ID="E6DE8E38-B407-4DE6-BB16-54C78B125A90">
@@ -4150,7 +4154,7 @@ LAPIN
 So why medicine?
 
 ISABEL
-It is usual. All the women en mi familia preserve health.
+It is usual. All the women en mi familia are healers.
 
 LAPIN
 Doctors and nurses?
@@ -4167,18 +4171,14 @@ ISABEL
 I never knew her. I lived with mi abuela.
 
 LAPIN
-I'm sorry... about your Mother. She did a good job... I mean mi abuela.
+I'm sorry... about your Mother. She did a good job... I mean your Grandmother.
 
 PANEL 3
 
-ISABEL
-Tu
-
-LAPIN
-What?
+Isabel smiles.
 
 ISABEL
-Mi is my, tu is your. And yes, she did.
+Yes, she did.
 
 PANEL 4
 
@@ -5337,12 +5337,12 @@ You. You allow your skirt... this black skirt to slide off your raised knee, and
 PANEL 2
 
 CAP
-You arch your toes, to release the heel of your shoe. The ashy white of your thighs inner side is lazily laid bare.
+You arch your toes, to release the heel of your shoe. The ashy white of your thigh is lazily laid bare.
 
 PARENT 3
 
 CAP
-I am raw to every ripple in the rooms air. The flicker of your eyes. Your scent as you reach for your glass. The metallic jolt of your bangle as it brushes the tabletop.
+The flicker of your eyes. Your scent as you reach for your glass. The metallic jolt of your bangle as it brushes the tabletop.
 
 PANEL 4
 
@@ -5481,7 +5481,7 @@ SERGEANT
 Anyone a local?
 
 MATEO
-Not a local, but I knew these mountains a little. As a boy only.
+Not a local, but I knew these mountains a little.
 
 PANEL 5
 
