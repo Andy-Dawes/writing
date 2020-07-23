@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-22 20:01:16 +0100" ModID="AF26C67D-387B-4FD1-99F9-686D650A42DD">
+<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-23 21:42:05 +0100" ModID="ADEB2ADD-AD96-4F40-8FBF-EE7C50BCE366">
     <Binder>
         <BinderItem UUID="9B64E500-9A8D-4994-BE7F-54CBBF107C26" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2018-11-30 20:19:58 +0000">
             <Title>Comic Script Format</Title>
@@ -301,24 +301,24 @@
                                 <TextSelection>102,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F20FEA74-69F3-4E8D-A8A2-2F386B9FEA1A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:03 +0100">
+                        <BinderItem UUID="F20FEA74-69F3-4E8D-A8A2-2F386B9FEA1A" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-23 21:33:55 +0100">
                             <Title>Page 1: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>864,0</TextSelection>
+                                <TextSelection>929,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="887F826F-DCE1-42CC-A98C-9F7EB5ABAC3C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:04:44 +0100">
+                        <BinderItem UUID="887F826F-DCE1-42CC-A98C-9F7EB5ABAC3C" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-23 21:42:05 +0100">
                             <Title>Page 2: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1272,0</TextSelection>
+                                <TextSelection>1409,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="654762C8-76A4-404E-A282-456A2FDD25DE" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:12 +0100">
@@ -3060,12 +3060,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:17:37 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-23 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2" Characters="25" Date="2020-07-22 19:33:07 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-24 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="46" Characters="243" Date="2020-07-23 21:30:34 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-22 00:00:00 +0100">
-        <DraftWordCount>-47</DraftWordCount>
-        <DraftCharCount>-206</DraftCharCount>
+    <RecentWritingHistory Date="2020-07-23 00:00:00 +0100">
+        <DraftWordCount>17</DraftWordCount>
+        <DraftCharCount>81</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
@@ -3073,6 +3073,7 @@
     <AutoCompleteList>
         <Completion Scope="2">Lapin</Completion>
         <Completion Scope="2">Isabel</Completion>
+        <Completion Scope="2">Edward</Completion>
     </AutoCompleteList>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
