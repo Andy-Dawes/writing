@@ -20,5 +20,6 @@
     <Day dwc="-47" dcc="-206" dtwc="0" owc="0" occ="0" dtcc="0">2020-07-22</Day>
     <Day dwc="17" dcc="81" dtwc="0" owc="0" occ="0" dtcc="0">2020-07-23</Day>
     <Day dwc="-6" dcc="-23" dtwc="0" owc="0" occ="0" dtcc="0">2020-07-24</Day>
-    <Day dwc="82" dcc="464" owc="0" occ="0">2020-07-25</Day>
+    <Day dwc="82" dcc="464" dtwc="0" owc="0" occ="0" dtcc="0">2020-07-25</Day>
+    <Day dwc="6" dcc="39" owc="0" occ="0">2020-07-27</Day>
 </WritingHistory>
