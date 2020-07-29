@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-28 10:55:59 +0100" ModID="20EE2BC4-24D1-4834-BAAA-D9E961B73D8E">
+<ScrivenerProject Identifier="287BBD05-C613-415B-B5DD-0A5F5E73DB84" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="deepthought-air" Author="Andy Dawes" Modified="2020-07-29 22:26:12 +0100" ModID="A9574A62-F27E-4477-A0A9-38B5BF8DE75F">
     <Binder>
         <BinderItem UUID="9B64E500-9A8D-4994-BE7F-54CBBF107C26" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2018-11-30 20:19:58 +0000">
             <Title>Comic Script Format</Title>
@@ -491,34 +491,34 @@
                                 <TextSelection>73,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C9A6C2EC-3CFA-4AE7-BEF9-1194940F172D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:32:36 +0100">
+                        <BinderItem UUID="C9A6C2EC-3CFA-4AE7-BEF9-1194940F172D" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-29 21:53:07 +0100">
                             <Title>Page 20: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>814,0</TextSelection>
+                                <TextSelection>908,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5F37519D-DE45-43BC-857A-043B4432D40F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-20 14:53:13 +0100">
+                        <BinderItem UUID="5F37519D-DE45-43BC-857A-043B4432D40F" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-29 21:53:52 +0100">
                             <Title>Page 21: 2013</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>775,0</TextSelection>
+                                <TextSelection>164,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BED546DA-F6D5-49AB-91F8-E6CF3F99D3DF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-01 20:34:58 +0100">
+                        <BinderItem UUID="BED546DA-F6D5-49AB-91F8-E6CF3F99D3DF" Type="Text" Created="2018-11-30 20:19:58 +0000" Modified="2020-07-29 22:26:12 +0100">
                             <Title>Page 22: 1936</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>601,0</TextSelection>
+                                <TextSelection>450,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3060,12 +3060,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:17:37 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-29 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="10" Characters="58" Date="2020-07-28 10:44:42 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-07-30 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="14" Characters="92" Date="2020-07-29 21:50:19 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-28 00:00:00 +0100">
-        <DraftWordCount>9</DraftWordCount>
-        <DraftCharCount>53</DraftCharCount>
+    <RecentWritingHistory Date="2020-07-29 00:00:00 +0100">
+        <DraftWordCount>14</DraftWordCount>
+        <DraftCharCount>89</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
